@@ -1,0 +1,8 @@
+.show {
+  display: block;
+  transition: 0.4s ease all;
+}
+.hide {
+  display: none;
+  transition: 2s;
+}
